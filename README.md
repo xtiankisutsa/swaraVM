@@ -1,7 +1,7 @@
 # swaraVM
 SwaraVM is a mobile security virtual machine that aggregates tools and resources that are commonly used for network traffic analysis, malware analysis, digital forensics, vulnerability research and exploitation, reverse engineering, mobile and web application assessment, alongside a variety of mobile application practice labs.
 
-SwaraVM for Android is built on top of Security Onion running on lubuntu. which provides full packet capture, Snort or Suricata rule-driven intrusion detection, Bro event-driven intrusion detection and powerful analysis tools.
+SwaraVM for Android is built on top of Security Onion running on [lubuntu]https://lubuntu.net). which provides full packet capture, Snort or Suricata rule-driven intrusion detection, Bro event-driven intrusion detection and powerful analysis tools.
 
 SwaaVM provides a near perfect combination of leveraging freely available and cutting-edge open-source tools on a light weight distro to facilitate end to end to end mobile application security assessments.  
 
@@ -19,4 +19,11 @@ In the the end swaraVM can be used by both red teams and blue teams depending on
 ## Suggested setup
 The suggested setup for end to end mobile application security that facilitates the use cases mentioned above, is as illustrated by the diagram below. 
 
+![Alt](https://github.com/xtiankisutsa/swaraVM/blob/master/sample_setup.png)
 
+An overview and detailed guide for configuring swaraVM as shown on the diagram above is on [this] (http://www.shadowinfosec.io/2018/04/portable-mobile-app-traffic-analysis.html) blog post. 
+
+## Inspired by
+This project is inspired by [Security Onion](https://securityonion.net), [Santoku](https://santoku-linux.com/), [Androlab](https://github.com/sh4hin/Androl4b), [REMnux](https://remnux.org), [Appie](https://manifestsecurity.com/appie/), [Vezir](https://github.com/oguzhantopgul/Vezir-Project), [SIFT workstation](https://digital-forensics.sans.org/community/downloads) and the [Ultimate-Forensics-VM](https://github.com/theflakes/Ultimate-Forensics-VM).  
+
+Please visit the wiki for additional information on Swara VM, including the installation guide. Happy hacking :D 
