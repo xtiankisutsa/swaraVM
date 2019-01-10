@@ -3,7 +3,7 @@
 
 SwaraVM for Android is built on top of [Security Onion](https://securityonion.net) running on [lubuntu](https://lubuntu.net). which provides full packet capture, Snort or Suricata rule-driven intrusion detection, Bro event-driven intrusion detection and powerful analysis tools.
 
-SwaaVM provides a near perfect combination of leveraging freely available and cutting-edge open-source tools on a light weight distro to facilitate end to end to end mobile application security assessments.  
+SwaraVM provides a near perfect combination of leveraging freely available and cutting-edge open-source tools on a light weight distro to facilitate end to end to end mobile application security assessments.  
 
 SwaraVM is developed and maintained by [@xtian_kisutsa](https://twitter.com/xtian_kisutsa) and [@r_doobie_](https://twitter.com/r_doobie_). Any contributions and suggestions for swaraVM are highly appreciated and encouraged. Issues and bugs should be reported on the issues page.  
 
