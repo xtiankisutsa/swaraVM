@@ -5,7 +5,7 @@ SwaraVM for Android is built on top of [Security Onion](https://securityonion.ne
 
 SwaraVM provides a near perfect combination of leveraging freely available and cutting-edge open-source tools on a light weight distro to facilitate end to end to end mobile application security assessments.  
 
-SwaraVM is developed and maintained by [@xtian_kisutsa](https://twitter.com/xtian_kisutsa) and [@r_doobie_](https://twitter.com/r_doobie_). Any contributions and suggestions for swaraVM are highly appreciated and encouraged. Issues and bugs should be reported on the issues page.  
+SwaraVM is developed and maintained by [@xtian_kisutsa](https://twitter.com/xtian_kisutsa) and [@PurpleR0b0t](https://twitter.com/PurpleR0b0t). Any contributions and suggestions for swaraVM are highly appreciated and encouraged. Issues and bugs should be reported on the issues page.  
 
 ## Use cases
 Our goal in developing this project, was to bridge the gap of network traffic analysis while either assessing mobile application or analyzing mobile malware. Here are few use cases for using swaraVM.
